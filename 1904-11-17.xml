@@ -2287,54 +2287,52 @@
             <div type="page" n="4"
                 facs="https://archive.org/details/egyptian-gazette-1904-11-17/page/n3/mode/1up">
                 <cb n="1"/>
-                <div type="item" feature="legal">
+                <div type="item" feature="legal" status="verified" xml:lang="fr">
                     <head>CHRONIQUE JUDICIAIRE</head>
                     <p>COUR D'APPEL MIXTE</p>
-                    <p>---</p>
+                    <p>VENTE D'IMMEUBLES</p>
+                    <p>DROITS DE TRANSCRIPTIONS</p>
                     <p>La Cour vient de rendre son jugement dans cette affaire. Elle condamne M. Léo
-                        Cassir à payer le droit de 5 ajo sur Is valeur réelle des terres qu'il a
-                        achetées à Kale Dawar. Cette valeur ayant été estimée par l'expert à 250
-                        pisstres le fed- dan, e'est done sur 4,625 L.E. que M Cassir devra payer le
+                        Cassir à payer le droit de 5 o/o sur la valeur réelle des terres qu'il a
+                        achetées à Kafr Dawar. Cette valeur ayant été estimée par l'expert à 250
+                        pisstres le feddan, c'est done sur 4,625 L.E. que M Cassir devra payer le
                         droit et non sur L.E. 205 comme le porte le prix d'achat de ses 2,050
-                        feddans</p>
-                    <p>Voici</p>
-                    <p>la Cour:</p>
-                    <p>un aperçu des motifs invoquée par</p>
-                    <p>Toate Is question roale sur l'application de l'article 54 du tarif des frais
-                        de justice. Or le dit article doabe au goffer le droi de recourir à une
+                        feddans.</p>
+                    <p>Voici un aperçu des motifs invoquée par la Cour:</p>
+                    <p>Toute la question roule sur l'application de l'article 54 du tarif des frais
+                        de justice. Or le dit article donne au greffier le droit de recourir à une
                         expertise si la valeur déclarée dans les actes soumis à la taxe
-                        proportionnelle lui pralt intérieure d'an dixième à la valeur réelle.</p>
-                    <p>Les premiers juges avaient établi Is distinction suivante: l'expertise était
+                        proportionnelle lui paraît inférieure d'un dixième à la valeur réelle.</p>
+                    <p>Les premiers juges avaient établis la distinction suivante: l'expertise était
                         admissible partout où la loi mentionnait la valeur somme devant servir de
-                        base so caleal des droits, par exemple, dans le antes de denation, de vente
-                        d'arafruit on d'ange, d'échange; elle était loadmissible lorsque le mot pris
-                        était employé. L Cour rejette cette distfaction comm abtils et contraire à
-                        l'esprit de la loi. Les termes de priz es de valeur s'expl quent par le fait
-                        que les ventes comportent us prix déterminé, tandis qu'il n'en est pas de
-                        méme pour la donation, l'échan</p>
+                        base au celui des droits, par exemple, dans le actes de donation, de vente
+                        d'usufruit on d'usage, d'échange; elle était inadmissible lorsque le mot
+                        prix était employé. La Cour rejette cette distfaction comme subtils et
+                        contraire à l'esprit de la loi. Les termes de prix et de valeur s'expliquent
+                        par le fait que les ventes comportent us prix déterminé, tandis qu'il n'en
+                        est pas de méme pour la donation, l'échange, etc.</p>
                     <p>La distinction est de plus contraire à l'esprit de la loi, car il est bien
-                        évi dent que le législateur a voulu fournir au fise un moyen sir de déjouer
+                        évident que le législateur a voulu fournir au fisc un moyen sûr de déjouer
                         les fraudes; et l'on ne comprendrait pas dans ce cas comment les ventes, qui
-                        sont les transsne tions de beaucoup les plus fréquentes et Is plas
-                        productives, saraient été privénde fat contrôle. Il ne s'ensuit pas,
-                        comme</p>
-                    <p>en l'objecte, que le gr-r sarait toujours le drois d'intenter un procès et le
-                        moyer de prouver que l'achetear a fraudé le de Rien n'est plus difficile, en
-                        efft, que d prouver la simula lon du prix. Cett preuve étant la plupart du
-                        temps im possib'e à établir, le go fler perdrait pres que toujours son
-                        prorès</p>
-                    <p>Si d'ailleurs on s'en rapporte à la loi française da 22 frimaire Fan VIII qui
-                        a servi de base à la législation mist on voit qu'aux termes de cette loi il
-                        n'y pas de doute que les ventes ne puissen étre contrôlées par expertise. Le
-                        principe du droit d'expertise une fois établi, on en dédait que le droit
-                        proportionnel doit être perça sur la valeur réelle. Le caractère aléstoire
-                        de l'achst ne peut entrer en lign de compte suprès du fe. L'art. 69 da tarif
-                        en est une preuve, puisque, sax termes de cet article, quelle que soit la
-                        esuse pour laquelle les actes restent sans effet, le droit perça ne sers pas
-                        restitas. En résumé Is Cour prononce que les droits de vente doivent être
-                        payés sur la valeur réelle des terrains et non sar lear priz déclaré de
-                        vente. L earacère alés toire de la chose veadae ne change rien à ce
-                        prinsipe.</p>
+                        sont les transactions de beaucoup les plus fréquentes et les plus
+                        productives, saraient été privés de tout contrôle. Il ne s'ensuit pas, comme
+                        en l'objecte, que le greffier sarait toujours le drois d'intenter un procès
+                        et le moyen de prouver que l'acheteur a fraudé le fisc. Rien n'est plus
+                        difficile, en effet, que de prouver la simulation du prix. Cette preuve
+                        étant la plupart du temps impossible à établir, le greffier perdrait pres
+                        que toujours son procès.</p>
+                    <p>Si d'ailleurs on s'en rapporte à la loi française da 22 frimaire l'an VIII
+                        qui a servi de base à la législation mixte on voit qu'aux termes de cette
+                        loi il n'y pas de doute que les ventes ne puissent étre contrôlées par
+                        expertise. Le principe du droit d'expertise une fois établi, on en dédait
+                        que le droit proportionnel doit être perça sur la valeur réelle. Le
+                        caractère aléatoire de l'achat ne peut entrer en ligne de compte auprès du
+                        fisc. L'art. 59 du tarif en est une preuve, puisque, aux termes de cet
+                        article, quelle que soit la cause pour laquelle les actes restent sans
+                        effet, le droit perça ne sers pas restitué. </p>
+                    <p>En résumé la Cour prononce que les droits de vente doivent être payés sur la
+                        valeur réelle des terrains et non sur leur prix déclaré de vente. Le
+                        caractère aléatoire de la chose vemdue ne change rien à ce principe.</p>
                 </div>
                 <div type="item" feature="theatre">
                     <head>CHRONIQUE THEATRALE</head>

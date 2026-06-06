@@ -1389,7 +1389,8 @@
             <pb n="2"/>
             <div type="page" n="2"
                 facs="https://archive.org/details/egyptian-gazette-1904-10-28/page/n1/mode/1up">
-              <cb n="1"/>  <div type="advert" colSpan="2" xml:id="deg-ad-ric01">
+                <cb n="1"/>
+                <div type="advert" colSpan="2" xml:id="deg-ad-ric01">
                     <head>Royal Insurance Coy</head>
                     <p>FIRE AND LIFE.</p>
                     <p>Largest Fire Office in the World.</p>
@@ -2335,71 +2336,65 @@
                     <p>Of the cotton exported during the nine =months of this year to the 30th
                         ulto., the Unit ed Kingdom has taken to the value of L.E. 5,040,697.</p>
                 </div>
-                <div type="item">
+                <div type="item" status="verified" xml:lang="fr">
                     <head>THE MUNICIPAL LANDS,<lb/>REGULATIONS OF SALE.</head>
-                    <p>The following are the concluding draft regu- lations for the sale of the
-                        lands belonging to in the Alexandria Municipality</p>
+                    <p>The following are the concluding draft regulations for the sale of the lands
+                        belonging to the Alexandria Municipality</p>
                     <p>ART. 10.-L'Administration est tenue de consigner le terrain à l'acheteur dans
-                        un délai S de deux mois à partir du jour du paiement intégral du prix.</p>
+                        un délai de deux mois à partir du jour du paiement intégral du prix.</p>
                     <p>Cette consignation sera faite sur place, moyennant simple mise en possession
-                        de l'ache-in teur du terrain, en lui indiquant les limites In portées sur
-                        les avis de mise en vente et sur le plan y annexé.</p>
-                    <p>Les procès-verbaux de consignation seront te faits en double au verso des
-                        contrats de vente A et seront signés par les acheteurs ou leurs
-                        représentants, ainsi que par les agents chargés de la consignation.</p>
-                    <p>Il est permis de prendre livraison par mésu- bu rage contradictoire, mais,
-                        dans ce cas, l'acheteur sera tenu de payer 1 pour cent sur le prix de vente,
-                        sans toutefois que ce montant puisse ph etre moindre d'une demi-livre
-                        égyptienne ou no supérieur à LE 10, et il sera fait mention de Ca ca
-                        mesurage sur les procès-verbaux de consi- ley gnation.</p>
-                    <p>ART. 11-Des ventes pourront être consén- ties par paiements échelonnés, mais,
-                        dans ce cas, il y aura lieu d'obtenir l'autorisation de la in Commission
-                        Municipale pour les conditions à W établir.</p>
-                    <p>Ces ventes devront être transcrites au greffe</p>
-                    <p>des tribunaux mixtes, aux frais des acheteurs qui devront acquitter, en même
-                        temps que le sti premier versement du prix de vente, les droitsme
-                        proportionnels afférents à la transcription. ART. 12.-la Municipalité se
-                        réserve le ing droit de prescrire pour certains endroits, des im conditions
-                        spéciales concernant la façade, le mode de construction, le délai
-                        d'achèvement de la construction, etc. conditions qui seront indi- Di quées
-                        dans le cahier des charges y relatif, Mi lequel déterminera également les
-                        sanctions que pourra comporter l'inobservation de ces</p>
-                    <p>conditions.</p>
+                        de l'acheteur du terrain, en lui indiquant les limites portées sur les avis
+                        de mise en vente et sur le plan y annexé.</p>
+                    <p>Les procès-verbaux de consignation seront faits en double au verso des
+                        contrats de vente et seront signés par les acheteurs ou leurs représentants,
+                        ainsi que par les agents chargés de la consignation.</p>
+                    <p>Il est permis de prendre livraison par mésurage contradictoire, mais, dans ce
+                        cas, l'acheteur sera tenu de payer 1 pour cent sur le prix de vente, sans
+                        toutefois que ce montant puisse etre moindre d'une demi-livre égyptienne ou
+                        supérieur à LE 10, et il sera fait mention de ce mesurage sur les
+                        procès-verbaux de consignation.</p>
+                    <p>ART. 11-Des ventes pourront être consénties par paiements échelonnés, mais,
+                        dans ce cas, il y aura lieu d'obtenir l'autorisation de la Commission
+                        Municipale pour les conditions à établir.</p>
+                    <p>Ces ventes devront être transcrites au greffe des tribunaux mixtes, aux frais
+                        des acheteurs qui devront acquitter, en même temps que le premier versement
+                        du prix de vente, les droits proportionnels afférents à la transcription. </p>
+                    <p>ART. 12.-La Municipalité se réserve le droit de prescrire pour certains
+                        endroits, des conditions spéciales concernant la façade, le mode de
+                        construction, le délai d'achèvement de la construction, etc. conditions qui
+                        seront indiquées dans le cahier des charges y relatif, lequel déterminera
+                        également les sanctions que pourra comporter l'inobservation de ces
+                        conditions.</p>
                     <p>Les ayants-droit successifs de l'acheteur devront se conformer à ces
-                        prescriptions. ART. 13.-Dang le cas où un terrain vendu se trouverait loué
-                        au moment de la vente, Mr l'acquéreur sera tenu de reconnaître le bail Da
-                        pour sa durée entière. Il aura droit aux loyers Dip à partir du jour de la
-                        consignation; mais, par fiel contre, il sera tenu, à partir du même jour, au
-                        He paiement des impôts.</p>
-                    <p>Au cas où la Municipalité aurait pergu le loyer par anticipation, elle devra
-                        tenir compte He à l'acheteur de la part lui revenant sur ce</p>
-                    <p>loyer..</p>
-                    <p>ART. 14.-Si le mesurage fait an moment de la consignation fait ressortir une
+                        prescriptions. </p>
+                    <p>ART. 13.-Dans le cas où un terrain vendu se trouverait loué au moment de la
+                        vente, l'acquéreur sera tenu de reconnaître le bail pour sa durée entière.
+                        Il aura droit aux loyers à partir du jour de la consignation; mais, par
+                        contre, il sera tenu, à partir du même jour, au paiement des impôts.</p>
+                    <p>Au cas où la Municipalité aurait perçu le loyer par anticipation, elle devra
+                        tenir compte à l'acheteur de la part lui revenant sur ce loyer.</p>
+                    <p>ART. 14.-Si le mesurage fait au moment de la consignation fait ressortir une
                         différence de contenance, soit en plus soit en moins, avec la contenance
                         indiquée sur l'avis de mise en vente, le prix de vente sera augmenté ou
-                        diminué proportionnellement à la différence en</p>
-                    <p>plus ou en moins.</p>
+                        diminué proportionnellement à la différence en plus ou en moins.</p>
                     <p>ART. 15. Si pour des raisons dont elle sera seule juge, la Municipalité se
-                        trouvait dans l'impossibilité de consigner les terrains vendus, 4 elle ne
-                        sera tenue qu'à la restitution du prix, avec les intérêts, calculés à raison
-                        de 5 pour cent, à partir du jour du paiement de chaque somme, et la vente
-                        sera considérée comme nulle et non avenue, sans que l'acheteur puisse
-                        réclamer aucune autre indemnité pour quelque cause ou sous quelque prétexte
-                        que</p>
-                    <p>oe soit.</p>
-                    <p>ART. 16.-Los aoquéreurs des terrains de la</p>
-                    <cb n="6"/>
-                    <p>Municipalité auront comme titre de propriété des actes de vente faits en
-                        double et sous seing privé. Les frais de transcription et tona autres frais
-                        sont à la charge des acheteurs.</p>
+                        trouvait dans l'impossibilité de consigner les terrains vendus, elle ne sera
+                        tenue qu'à la restitution du prix, avec les intérêts, calculés à raison de 5
+                        pour cent, à partir du jour du paiement de chaque somme, et la vente sera
+                        considérée comme nulle et non avenue, sans que l'acheteur puisse réclamer
+                        aucune autre indemnité pour quelque cause ou sous quelque prétexte que ce
+                        soit.</p>
+                    <p>ART. 16.-Les acquéreurs des terrains de la <cb n="6"/> Municipalité auront
+                        comme titre de propriété des actes de vente faits en double et sous seing
+                        privé. Les frais de transcription et tous autres frais sont à la charge des
+                        acheteurs.</p>
                     <p>ART. 17.-Les actes de vente ne peuvent, être donnés qu'au nom de
                         l'adjudicataire, à moins que celui-ci n'ait déclaré, au moment de la vente,
-                        qu'il agissait en qualité de man- dataire et qu'il n'ait fait connaître le
-                        nom de em son mandant, en requérant la motion au of procès-verbal
-                        d'adjudication.</p>
-                    <p>ART. 18.-L'acheteur ou seg, ayants-droit devront se conformer à tous les
+                        qu'il agissait en qualité de mandataire et qu'il n'ait fait connaître le nom
+                        de son mandant, en requérant la motion au procès-verbal d'adjudication.</p>
+                    <p>ART. 18.-L'acheteur ou ses ayants-droit devront se conformer à tous les
                         règlements de police ou de voirie, aux taxes ou impositions établies, ou à
-                        établir, ainsi qu'à tous les règle ments municipaux, existants ou à venir,
+                        établir, ainsi qu'à tous les règlements municipaux, existants ou à venir,
                         sans pouvoir prétendre à aucun privilège.</p>
                 </div>
                 <div type="section" feature="notesOther">
@@ -2486,38 +2481,38 @@
             <div type="page" n="4"
                 facs="https://archive.org/details/egyptian-gazette-1904-10-28/page/n3/mode/1up">
                 <cb n="1"/>
-                <div type="item" feature="legal">
+                <div type="item" feature="legal" status="verified" xml:lang="fr">
                     <head>CHRONIQUE JUDICIAIRE</head>
                     <p>TRIBUNAL MIXTE DE COMMERCE D'ALEXANDRIE</p>
                     <p>LES DROITS DES REPRESENTANTS</p>
-                    <p>MM. Antonin Goubert et J. Assaf vien- nent d'assigner la Cie d'assurances "L
-                        Mutuelle de France et des colonies" deva: t le tribunal mixte de commerce
-                        d'Al xan drie. Voici les motifs contenus dans l'as- signation.</p>
-                    <p>"Attendu que les requérants ont été char. gés depuis plus de trois ans par la
+                    <p>MM. Antonin Goubert et J. Assaf viennent d'assigner la Cie d'assurances "La
+                        Mutuelle de France et des colonies" devant le tribunal mixte de commerce
+                        d'Alexandrie. Voici les motifs contenus dans l'assignation.</p>
+                    <p>"Attendu que les requérants ont été chargés depuis plus de trois ans par la
                         Société assignée du mandat d'agents généraux de cette société en Egypte,
-                        avec pouvoirs dé- terminés et pour une durée illimitée; que ce mandat a été
+                        avec pouvoirs déterminés et pour une durée illimitée; que ce mandat a été
                         ponctuellement exécuté par eux; que l'un d'eux, le Sieur Joseph J. Assaf a
                         même créé à Alexandrie un bureau spécial pour le service de la société en
                         dépensant à cet effet L.E. 270 pour installation, personnel, petits frais,
                         etc.</p>
                     <p>"Attendu cependant que malgré le zèle apporté par les requérants au service
                         de la Société assignée, celle-ci n'a cherché pendant les dites trois années,
-                        qu'à mettr des entraves à l'exécution des fonctions qu'elle leur avait
-                        confiées; que dernière- ment, elle s'est même permis de désigner à leur lieu
-                        et place pour la même gestion, sans que ce fait ait été notifié aux requé-
-                        rants, les Sieurs E. Almasy, A. Félix et Cie, commissionnaires à
+                        qu'à mettre des entraves à l'exécution des fonctions qu'elle leur avait
+                        confiées; que dernièrement, elle s'est même permis de désigner à leur lieu
+                        et place pour la même gestion, sans que ce fait ait été notifié aux
+                        requérants, les Sieurs E. Almasy, A. Félix et Cie, commissionnaires à
                         Alexandrie;</p>
-                    <p>"Qu'enfio,sans avis préalable,sans motifs sérieux, sans aucune proposition
-                        d'indem- nité et sans qu'aucune faute ait pu être relevée contre les
-                        requérants, la Société as- signée a, par sa lettre du 20 mai 1904, retiré
-                        formellement son mandat aux re- quérants;</p>
-                    <p>"Attendu que ces faits ont causé aux re- quérants un préjudice dont la
-                        Société doit les indemniser; qu'en tenant compte des frais faits et des
-                        bénéfices qu'on pouvait raisonnablement attendre de la gestion de l'agence
-                        d'une société prospère, le préjudice ne saurait être évaluée à moins de L.E.
-                        2 270;"</p>
-                    <p>Me Orfali s'est présenté pour les deman- deurs et Me Vermond pour la Société
-                        dé- fenderesse. L'affaire sera plaidée le 19 décembre prochain,</p>
+                    <p>"Qu'enfin, sans avis préalable, sans motifs sérieux, sans aucune proposition
+                        d'indemnité et sans qu'aucune faute ait pu être relevée contre les
+                        requérants, la Société assignée a, par sa lettre du 20 mai 1904, retiré
+                        formellement son mandat aux requérants;</p>
+                    <p>"Attendu que ces faits ont causé aux requérants un préjudice dont la Société
+                        doit les indemniser; qu'en tenant compte des frais faits et des bénéfices
+                        qu'on pouvait raisonnablement attendre de la gestion de l'agence d'une
+                        société prospère, le préjudice ne saurait être évaluée à moins de L.E. 2
+                        270;"</p>
+                    <p>Me Orfali s'est présenté pour les demandeurs et Me Vermond pour la Société
+                        défenderesse. L'affaire sera plaidée le 19 décembre prochain.</p>
                 </div>
                 <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>

@@ -2751,7 +2751,7 @@
             <div type="page" n="6"
                 facs="https://archive.org/details/egyptian-gazette-1904-10-29/page/n5/mode/1up">
                 <cb n="1"/>
-                <div type="item" feature="legal">
+                <div type="item" feature="legal" status="verified" xml:lang="fr">
                     <head>CHRONIQUE JUDICIAIRE</head>
                     <p>TRIBUNAL SOMMAIRE MIXTE D'ALEXANDRIE.</p>
                     <p>LES AGISSEMENTS D'UN BOAB</p>
